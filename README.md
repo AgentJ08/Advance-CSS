@@ -1,2 +1,2 @@
 # Advanced-CSS
-CSS Snippets
+Small CSS Snippets
